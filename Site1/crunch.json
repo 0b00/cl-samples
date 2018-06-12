@@ -55,17 +55,17 @@
     "main": [
       {
         "title": "Home",
-        "url:": "/",
+        "url": "/",
         "order": 100
       },
       {
         "title": "About",
-        "url:": "/about",
+        "url": "/about",
         "order": 200
       },
       {
         "title": "Contact",
-        "url:": "/#",
+        "url": "/#",
         "order": 300
       }
     ]
