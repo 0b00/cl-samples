@@ -1,16 +1,14 @@
 {
-  "site": {
-    "baseurl": "http://localhost/",
+  "baseurl": "http://localhost/",
 
-    "languageCode": "en-US",
+  "languageCode": "en-US",
 
-    "title": "Sample Blog",
-    "subTitle": "Lorem ipsum dolor amet",
+  "title": "Sample Blog",
+  "subTitle": "Lorem ipsum dolor amet",
 
-    "theme": "solid-state",
+  "theme": "solid-state",
 
-    "favicon": "/favicon.ico"
-  },
+  "favicon": "/favicon.ico",
 
   "copyright": {
     "startYear": 2017,
@@ -29,7 +27,7 @@
 
   "authors": {
     "jdoe": {
-      "alias": "jdoe", 
+      "alias": "jdoe",
       "name": "Jane Doe",
       "email": "jane.doe@example.com",
       "social": {
