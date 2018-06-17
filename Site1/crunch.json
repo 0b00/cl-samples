@@ -73,6 +73,7 @@
     "output": "_site/",
     "content": "Content",
     "themes": "Themes",
-    "plugins": "Plugins"
+    "plugins": "Plugins",
+    "images":  "Content/Images"
   }
 }
