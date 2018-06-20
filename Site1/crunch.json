@@ -21,6 +21,8 @@
 
   "dateFormat": "yyyy-MM-dd",
 
+  "defaultBanner": "/images/001.jpg",
+
   "pagination": {
     "pageSize": 6
   },
@@ -74,6 +76,6 @@
     "content": "Content",
     "themes": "Themes",
     "plugins": "Plugins",
-    "images":  "Content/Images"
+    "images": "Content/Images"
   }
 }
