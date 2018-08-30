@@ -1,3 +1,6 @@
 [submodule "Site1/Themes/solid-state"]
 	path = Site1/Themes/solid-state
 	url = https://github.com/0b00/cl-theme-solid-state
+[submodule "Site1/Themes/solid-state-spa"]
+	path = Site1/Themes/solid-state-spa
+	url = https://github.com/0b00/cl-theme-spa-solid-state.git
