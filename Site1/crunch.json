@@ -6,7 +6,7 @@
   "title": "Sample Blog",
   "subTitle": "Lorem ipsum dolor amet",
 
-  "theme": "solid-state",
+  "theme": "solid-state-spa",
 
   "favicon": "/favicon.ico",
 
@@ -24,7 +24,7 @@
   "defaultBanner": "/images/001.jpg",
 
   "pagination": {
-    "pageSize": 6
+    "pageSize": 4
   },
 
   "authors": {
@@ -60,7 +60,7 @@
       },
       {
         "title": "About",
-        "url": "/about",
+        "url": "/by/jdoe",
         "order": 200
       },
       {
