@@ -71,6 +71,12 @@
     ]
   },
 
+  "categories": {
+    "Default": "#000",
+    "Blog": "#75507B",
+    "Eget": "#3465A4"
+  },
+
   "paths": {
     "output": "_site/",
     "content": "Content",

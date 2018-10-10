@@ -1,11 +1,10 @@
 {
-  "title": "Aliquam eget velit",
-  "slug": "aliquam-eget-elit",
-  "date": "2017-01-03T10:00:00Z",
-  "author": "jsmith",
-  "tags": [ "lorem", "ipsum", "velit" ],
-  "categories": [ "Eget", "Blog" ],
+  "title": "Facilisis ultrices lorem",
+  "date": "2018-02-04T10:00:00Z",
+  "slug": "facilisis-ultrices-lorem",
+  "tags": [ "lorem", "ipsum", "platea" ],
+  "categories": [ "Solor", "Blog" ],
   "published": true,
-  "bannerImage": "003",
+  "bannerImage": "/images/004.jpg",
   "intro": "Aenean mollis justo quis risus convallis aliquam. Ut est tellus, facilisis ultrices lorem a, ullamcorper elementum quam. Ut sed augue id neque pulvinar condimentum ut ac tellus. Proin ultricies et risus quis facilisis."
 }

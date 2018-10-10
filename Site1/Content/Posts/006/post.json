@@ -1,9 +1,10 @@
 {
-  "title": "Vestibulum vel volutpat est",
-  "date": "2018-01-04T10:00:00Z",
+  "title": "Flamcorper elementum",
+  "date": "2018-03-05T10:00:00Z",
+  "slug": "flamcorper-elementum",
   "tags": [ "lorem", "ipsum", "platea" ],
-  "categories": [ "Blog", "Solor" ],
+  "categories": [ "Eget", "Blog" ],
   "published": true,
-  "bannerImage": "/images/004.jpg",
+  "bannerImage": "/images/001.jpg",
   "intro": "Aenean mollis justo quis risus convallis aliquam. Ut est tellus, facilisis ultrices lorem a, ullamcorper elementum quam. Ut sed augue id neque pulvinar condimentum ut ac tellus. Proin ultricies et risus quis facilisis."
 }
