@@ -9,8 +9,6 @@ Maecenas consequat libero non dolor euismod luctus. Phasellus[^1] sit amet torto
 
 ![Lion Alt](https://d30y9cdsu7xlg0.cloudfront.net/png/1325042-42.png "Lion")
 [![Lion Alt](https://d30y9cdsu7xlg0.cloudfront.net/png/1325042-42.png)](http://example.com/ "Lion 2")
-![Lion Alt][3]
-[![Lion Alt][3]][2]
 
 ```
 vitae porta erat aliquet feugiat
@@ -47,7 +45,4 @@ Curabitur vitae consectetur tellus, a posuere nunc. Integer tristique gravida mo
 
 [^1]: Curabitur vitae consectetur tellus, a posuere nunc. 
 [^2]: Curabitur vitae consectetur tellus, a posuere nunc. 
-[1]: http://example.com/ "Exmaple"
-[2]: http://text.com/ "Test"
-[3]: https://d30y9cdsu7xlg0.cloudfront.net/png/1325042-42.png/ "Lion 3"
 *[Duis]: fringilla nec nisi nec tincidunt.
