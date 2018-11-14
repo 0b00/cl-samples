@@ -1,3 +1,20 @@
+---
+title: Facilisis ultrices lorem
+slug: facilisis-ultrices-lorem
+datePublished: 2018-02-04T10:00:00Z
+dateUpdated: 2018-02-04T10:00:00Z
+tags: 
+- lorem
+- ipsum
+- platea
+categories:
+- Solor
+- Blog
+published: true
+bannerImage: /images/004.jpg
+intro: Aenean mollis justo quis risus convallis aliquam. Ut est tellus, facilisis ultrices lorem a, ullamcorper elementum quam. Ut sed augue id neque pulvinar condimentum ut ac tellus. Proin ultricies et risus quis facilisis.
+---
+
 ## Aenean viverra ipsum
 Aenean viverra ipsum eget mollis *imperdiet*. __Vestibulum__ at lorem feugiat, cursus eros ut, ultrices lacus. Nullam pharetra viverra enim nec ornare. Curabitur neque ligula, bibendum a finibus a, _vestibulum_ id **dolor**. Aliquam *__sed__* libero ut quam sollicitudin molestie. Maecenas eu elementum orci. Interdum et malesuada fames ac ante ipsum primis in faucibus.
 
@@ -50,4 +67,4 @@ Curabitur vitae consectetur tellus, a posuere nunc. Integer tristique gravida mo
 [1]: http://example.com/ "Exmaple"
 [2]: http://text.com/ "Test"
 [3]: https://d30y9cdsu7xlg0.cloudfront.net/png/1325042-42.png/ "Lion 3"
-*[sit]: fringilla nec nisi nec tincidunt.
+*[Duis]: fringilla nec nisi nec tincidunt.

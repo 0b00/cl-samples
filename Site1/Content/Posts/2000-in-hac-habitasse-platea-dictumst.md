@@ -1,3 +1,20 @@
+---
+title: In hac habitasse platea dictumst
+slug: in-hac-habitasse-platea-dictumst
+datePublished: 2017-01-01T10:00:00Z
+dateUpdated: 2017-01-01T10:00:00Z
+tags: 
+- lorem
+- ipsum
+- platea
+categories:
+- Blog
+- Solor
+published: false
+bannerImage: /images/004.jpg
+intro: Morbi vel est finibus, vehicula libero non, congue odio. Vestibulum vel volutpat est, tempus venenatis leo. In hac habitasse platea dictumst. Aliquam eget velit ullamcorper quam auctor placerat et a dolor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+---
+
 ## Aenean viverra ipsum
 Aenean viverra ipsum eget mollis *imperdiet*. __Vestibulum__ at lorem feugiat, cursus eros ut, ultrices lacus. Nullam pharetra viverra enim nec ornare. Curabitur neque ligula, bibendum a finibus a, _vestibulum_ id **dolor**. Aliquam *__sed__* libero ut quam sollicitudin molestie. Maecenas eu elementum orci. Interdum et malesuada fames ac ante ipsum primis in faucibus.
 

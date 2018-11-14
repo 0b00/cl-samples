@@ -1,3 +1,20 @@
+---
+title: Vestibulum vel volutpat est
+slug: vestibulum-vel-volutpat
+datePublished: 2018-01-04T10:00:00Z
+dateUpdated: 2018-02-04T10:00:00Z
+tags: 
+- lorem
+- ipsum
+- platea
+categories:
+- Blog
+- Solor
+published: true
+bannerImage: /images/004.jpg
+intro: Aenean mollis justo quis risus convallis aliquam. Ut est tellus, facilisis ultrices lorem a, ullamcorper elementum quam. Ut sed augue id neque pulvinar condimentum ut ac tellus. Proin ultricies et risus quis facilisis.
+---
+
 ## Aenean viverra ipsum
 Aenean viverra ipsum eget mollis *imperdiet*. __Vestibulum__ at lorem feugiat, cursus eros ut, ultrices lacus. Nullam pharetra viverra enim nec ornare. Curabitur neque ligula, bibendum a finibus a, _vestibulum_ id **dolor**. Aliquam *__sed__* libero ut quam sollicitudin molestie. Maecenas eu elementum orci. Interdum et malesuada fames ac ante ipsum primis in faucibus.
 
