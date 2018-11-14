@@ -1,32 +1,42 @@
 {
   "baseurl": "http://localhost/",
-
   "languageCode": "en-US",
-
   "title": "Sample Blog",
   "subTitle": "Lorem ipsum dolor amet",
-
   "theme": "solid-state-spa",
-
   "favicon": "/favicon.ico",
-
   "copyright": {
     "startYear": 2017,
     "owner": "Nullbit Solutions"
   },
-
   "tags": [ "static", "blog", "csharp", "dotnet", "core" ],
-
   "permalink": "/:year/:month/:slug",
-
   "dateFormat": "yyyy-MM-dd",
-
   "defaultBanner": "/images/001.jpg",
-
   "pagination": {
     "pageSize": 6
   },
-
+  "categories": {
+    "Default": {
+      "color": "#000",
+      "image": "/images/002.jpg"
+    },
+    "Blog": {
+      "color": "#75507B",
+      "image": "/images/003.jpg"
+    },
+    "Eget": {
+      "color": "#3465A4",
+      "image": "/images/006.jpg"
+    }
+  },
+  "paths": {
+    "output": "_site/",
+    "content": "Content",
+    "themes": "Themes",
+    "plugins": "Plugins",
+    "images": "Content/Images"
+  },
   "authors": {
     "jdoe": {
       "alias": "jdoe",
@@ -50,7 +60,6 @@
       }
     }
   },
-
   "menu": {
     "main": [
       {
@@ -69,19 +78,5 @@
         "order": 300
       }
     ]
-  },
-
-  "categories": {
-    "Default": "#000",
-    "Blog": "#75507B",
-    "Eget": "#3465A4"
-  },
-
-  "paths": {
-    "output": "_site/",
-    "content": "Content",
-    "themes": "Themes",
-    "plugins": "Plugins",
-    "images": "Content/Images"
   }
 }
